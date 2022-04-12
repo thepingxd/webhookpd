@@ -1,4 +1,4 @@
-embed=discord.Embed(title="Controle Primeira Dama - Fluxo das Lolly's", description="Controle das protegidas dos chefes da FDL.")
+embed=discord.Embed(title="Controle Primeira Dama - Fluxo das Lollys", description="Controle das protegidas dos chefes da FDL.")
 embed.add_field(name="viCtor#0001", value="Nenhuma", inline=True)
 embed.add_field(name="Lawly ✗#0001", value="<@716695355839873034>", inline=True)
 embed.add_field(name="petter7 ✗#0001", value="Nenhuma", inline=True)
